@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Luis Fernando Villalba Mojica</h1>
-<h3 align="center">I'm an Developer Web and Student from Colombia</h3>
+<h3 align="center">I'm an Web Developer and Student from Colombia</h3>
 
 
 
@@ -14,7 +14,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/luis-villalba-villalba-mojica-21b08430b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
-<a href="https://instagram.com/subhadeepzilong" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="subhadeepzilong" height="30" width="40" /></a>
+<a href="https://www.instagram.com/luisfvillalba_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="subhadeepzilong" height="30" width="40" /></a>
 </a>
 </p>
 
